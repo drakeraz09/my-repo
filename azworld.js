@@ -1,6 +1,6 @@
 // Please don't get at me for this  MediaWiki just takes forever to cache JS lmao
 console.log("Hi twin it's working");
-console.log("Yippee?");
+console.log("Yippee!");
 $(function() {
     $('.navbox').each(function() {
         var $navbox = $(this);
